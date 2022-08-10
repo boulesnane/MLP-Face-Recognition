@@ -14,4 +14,4 @@ To run this project, go to "FaceApp.m" file and run it and follow the following 
 4. From the "Face Recognition" button, we can load one image per time and get the ID result based on the trained model.
 ![test](https://user-images.githubusercontent.com/53651195/184038465-397bbf9c-b1c6-4020-b7bf-2ccca2fcaadd.JPG)
 
-##Note: to train our Model, we use the ORL Database of Faces: https://www.kaggle.com/datasets/tavarez/the-orl-database-for-training-and-testing
+Note: to train our Model, we use the ORL Database of Faces: https://www.kaggle.com/datasets/tavarez/the-orl-database-for-training-and-testing
